@@ -1,0 +1,15 @@
+# Vendor Recommender System Dependencies
+
+# Core
+python-dotenv>=1.0.0
+
+# LangChain ecosystem
+langchain>=0.3.0
+langchain-google-genai>=2.0.0
+langchain-chroma>=0.1.0
+
+# Vector store
+chromadb>=0.5.0
+
+# Optional: Reranking (uncomment if needed)
+# sentence-transformers>=2.2.0
